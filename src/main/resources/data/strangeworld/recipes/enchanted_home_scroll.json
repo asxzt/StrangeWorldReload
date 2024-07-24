@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "QGQ",
+    "GHG",
+    "QGQ"
+  ],
+  "key": {
+    "H": {
+      "item": "strangeworld:home_scroll"
+    },
+    "G": {
+      "item": "minecraft:gold_ingot"
+    },
+    "Q": {
+      "item": "minecraft:lapis_lazuli"
+    }
+  },
+  "result": {
+    "item": "strangeworld:enchanted_home_scroll",
+    "count": 1
+  }
+}
