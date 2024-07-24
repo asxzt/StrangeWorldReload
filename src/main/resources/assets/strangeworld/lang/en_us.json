@@ -1,5 +1,14 @@
 {
   "item.strangeworld.home_scroll" : "Home Scroll",
 
+  "item.strangeworld.home_scroll.tool_tip_1" : "Use it many times,then you can come back to your bed",
+
+  "item.strangeworld.home_scroll.tool_tip_2" : "You can back home for %d times at least",
+
+  "item.strangeworld.enchanted_home_scroll" : "Enchanted Home Scroll",
+
+  "item.strangeworld.enchanted_home_scroll.tool_tip" : "Go home now by using it!",
+
   "itemgroup.strangeworld.sw" : "Strange World"
+
 }

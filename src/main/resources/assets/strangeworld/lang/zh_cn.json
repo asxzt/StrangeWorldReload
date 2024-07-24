@@ -1,5 +1,14 @@
 {
   "item.strangeworld.home_scroll" : "回家卷轴",
 
+  "item.strangeworld.home_scroll.tool_tip_1": "多次使用，可以回家",
+
+  "item.strangeworld.home_scroll.tool_tip_2": "你至少可以用它回家%d次",
+
+  "item.strangeworld.enchanted_home_scroll" : "附魔回家卷轴",
+
+  "item.strangeworld.enchanted_home_scroll.tool_tip" : "用它立马回家!",
+
   "itemgroup.strangeworld.sw" : "奇异世界"
+
 }
